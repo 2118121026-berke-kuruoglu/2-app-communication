@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "App1_Client\\App1_Client.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "App2_Server\\App2_Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+paths:
+  live:
+    source: publisher
+    # record satırı tamamen kaldırılmış olmalı
